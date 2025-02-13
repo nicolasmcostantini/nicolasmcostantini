@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hola, soy Nicolás Costantini <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
+<a href="https://www.linkedin.com/in/nicolas-costantini-b9029b341/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
